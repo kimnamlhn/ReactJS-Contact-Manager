@@ -1,6 +1,6 @@
-# ReactJS-Contact-Manager
+# ReactJS-Tic-tac-toe
 
-Contact manager - Crash project to learn about ReactJS.
+Tic-tac-toe,  mini game to learn about ReactJS.
 
 ## Available Scripts
 
